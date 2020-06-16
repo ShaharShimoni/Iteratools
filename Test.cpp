@@ -59,7 +59,7 @@ TEST_CASE("Test (1)- easy tests") {
 //            CHECK(answer[count]!=vecString[count]);
 //        count++;
 //    }
-
+//
 //    vecString = {"Today", "_is", "_Tuesday"};
 //    answer = {"Today", "Today_is", "Today_is_Tuesday"};
 //    count=0;
@@ -69,7 +69,7 @@ TEST_CASE("Test (1)- easy tests") {
 //        CHECK(answer[count]!=vecString[count]);
 //        count++;
 //    }
-
+//
 //
 //    vector<char> vec = {'H','e','l','l','o'};
 //    vector<string> answer2 = {"H", "He", "Hel","Hell","Hello"};
